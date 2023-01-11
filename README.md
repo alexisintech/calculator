@@ -9,7 +9,7 @@
 
 ## Features
 
-- Standard calcultor functionality (addition, subtraction, division, multiplication) with floating point calculations supported
+- Standard calculator functionality (addition, subtraction, division, multiplication) with floating point calculations supported
 - Use the DEL button to delete an integer or clear the input field if there is a single integer
 - Use the AC button to clear the input field
 - Allows operation chaining until the equal (=) sign is clicked, setting the input field to be the final solution of the calculations
